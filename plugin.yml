@@ -1,10 +1,10 @@
 name: freeze
 main: Bavfalcon9\freeze\Main
 version: 2.2.1
-api: [4.0.0]
+api: [5.0.0]
 load: POSTWORLD
-authors: [Bavfalcon9, fernanACM]
-description: Freeze for PocketMine-MP 4.0
+authors: [Bavfalcon9, fernanACM, 0x00032]
+description: Freeze for PocketMine-MP 5.0
 
 commands:
   frozen:
